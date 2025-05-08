@@ -1,5 +1,5 @@
 
-## 🔖 Courses Covered (Level 100)
+## 🔖 Courses Covered (Level 100-400)
 - **CSE 134**:
 
 ## 📚 Resources
